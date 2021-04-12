@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vlad1\\source\\repos\\FigureLibrary\\FigureLibrary.Tests\\FigureLibrary.Tests.csproj": {}
+    "C:\\Users\\vlad1\\Documents\\GitHub\\FigureLibrary\\FigureLibrary\\FigureLibrary.Tests\\FigureLibrary.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vlad1\\source\\repos\\FigureLibrary\\FigureLibrary.Tests\\FigureLibrary.Tests.csproj": {
+    "C:\\Users\\vlad1\\Documents\\GitHub\\FigureLibrary\\FigureLibrary\\FigureLibrary.Tests\\FigureLibrary.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vlad1\\source\\repos\\FigureLibrary\\FigureLibrary.Tests\\FigureLibrary.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\vlad1\\Documents\\GitHub\\FigureLibrary\\FigureLibrary\\FigureLibrary.Tests\\FigureLibrary.Tests.csproj",
         "projectName": "FigureLibrary.Tests",
-        "projectPath": "C:\\Users\\vlad1\\source\\repos\\FigureLibrary\\FigureLibrary.Tests\\FigureLibrary.Tests.csproj",
+        "projectPath": "C:\\Users\\vlad1\\Documents\\GitHub\\FigureLibrary\\FigureLibrary\\FigureLibrary.Tests\\FigureLibrary.Tests.csproj",
         "packagesPath": "C:\\Users\\vlad1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vlad1\\source\\repos\\FigureLibrary\\FigureLibrary.Tests\\obj\\",
+        "outputPath": "C:\\Users\\vlad1\\Documents\\GitHub\\FigureLibrary\\FigureLibrary\\FigureLibrary.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vlad1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\vlad1\\source\\repos\\FigureLibrary\\FigureLibrary\\FigureLibrary.csproj": {
-                "projectPath": "C:\\Users\\vlad1\\source\\repos\\FigureLibrary\\FigureLibrary\\FigureLibrary.csproj"
+              "C:\\Users\\vlad1\\Documents\\GitHub\\FigureLibrary\\FigureLibrary\\FigureLibrary\\FigureLibrary.csproj": {
+                "projectPath": "C:\\Users\\vlad1\\Documents\\GitHub\\FigureLibrary\\FigureLibrary\\FigureLibrary\\FigureLibrary.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\vlad1\\source\\repos\\FigureLibrary\\FigureLibrary\\FigureLibrary.csproj": {
+    "C:\\Users\\vlad1\\Documents\\GitHub\\FigureLibrary\\FigureLibrary\\FigureLibrary\\FigureLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vlad1\\source\\repos\\FigureLibrary\\FigureLibrary\\FigureLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\vlad1\\Documents\\GitHub\\FigureLibrary\\FigureLibrary\\FigureLibrary\\FigureLibrary.csproj",
         "projectName": "FigureLibrary",
-        "projectPath": "C:\\Users\\vlad1\\source\\repos\\FigureLibrary\\FigureLibrary\\FigureLibrary.csproj",
+        "projectPath": "C:\\Users\\vlad1\\Documents\\GitHub\\FigureLibrary\\FigureLibrary\\FigureLibrary\\FigureLibrary.csproj",
         "packagesPath": "C:\\Users\\vlad1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vlad1\\source\\repos\\FigureLibrary\\FigureLibrary\\obj\\",
+        "outputPath": "C:\\Users\\vlad1\\Documents\\GitHub\\FigureLibrary\\FigureLibrary\\FigureLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vlad1\\AppData\\Roaming\\NuGet\\NuGet.Config",

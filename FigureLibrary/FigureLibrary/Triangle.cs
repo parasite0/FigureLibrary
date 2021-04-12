@@ -19,7 +19,7 @@ namespace FigureLibrary
         public override double GetSquare()
         {
             // Проверка на неотрицательные стороны треугольника
-            if ((side1 < 0) || (side2 < 0) || (side3 < 0))
+            if ((side1 <= 0) || (side2 <= 0) || (side3 <= 0))
             {
                 Exception ex = new ArgumentException("Стороны треугольника должны быть положительными числами");
                 Console.WriteLine(ex.Message);
@@ -34,7 +34,7 @@ namespace FigureLibrary
         public string RightTriangle()
         {
             // Проверка на неотрицательные стороны треугольника
-            if ((side1 < 0) || (side2 < 0) || (side3 < 0))
+            if ((side1 <= 0) || (side2 <= 0) || (side3 <= 0))
             {
                 Exception ex = new ArgumentException("Стороны треугольника должны быть положительными числами");
                 Console.WriteLine(ex.Message);
