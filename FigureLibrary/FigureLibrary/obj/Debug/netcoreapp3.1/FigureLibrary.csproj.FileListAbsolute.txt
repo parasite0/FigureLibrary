@@ -7,3 +7,12 @@ C:\Users\vlad1\source\repos\FigureLibrary\FigureLibrary\obj\Debug\netcoreapp3.1\
 C:\Users\vlad1\source\repos\FigureLibrary\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.dll
 C:\Users\vlad1\source\repos\FigureLibrary\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.pdb
 C:\Users\vlad1\source\repos\FigureLibrary\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.csprojAssemblyReference.cache
+C:\Users\vlad1\Documents\GitHub\FigureLibrary\FigureLibrary\FigureLibrary\bin\Debug\netcoreapp3.1\FigureLibrary.deps.json
+C:\Users\vlad1\Documents\GitHub\FigureLibrary\FigureLibrary\FigureLibrary\bin\Debug\netcoreapp3.1\FigureLibrary.dll
+C:\Users\vlad1\Documents\GitHub\FigureLibrary\FigureLibrary\FigureLibrary\bin\Debug\netcoreapp3.1\FigureLibrary.pdb
+C:\Users\vlad1\Documents\GitHub\FigureLibrary\FigureLibrary\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.csprojAssemblyReference.cache
+C:\Users\vlad1\Documents\GitHub\FigureLibrary\FigureLibrary\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.AssemblyInfoInputs.cache
+C:\Users\vlad1\Documents\GitHub\FigureLibrary\FigureLibrary\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.AssemblyInfo.cs
+C:\Users\vlad1\Documents\GitHub\FigureLibrary\FigureLibrary\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vlad1\Documents\GitHub\FigureLibrary\FigureLibrary\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.dll
+C:\Users\vlad1\Documents\GitHub\FigureLibrary\FigureLibrary\FigureLibrary\obj\Debug\netcoreapp3.1\FigureLibrary.pdb
